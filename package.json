@@ -1,0 +1,14 @@
+{
+  "name": "app-engine-app",
+  "version": "1.0.0",
+  "description": "deploy to GPC App Engine",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fbravo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
